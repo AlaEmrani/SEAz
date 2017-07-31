@@ -7,6 +7,11 @@ class BasicMath
     }
 
     // TODO: subtract
-	// TODO: multiply
+    public int sub(int a, int b)
+    {
+        return a - b;
+    }
+
+    // TODO: multiply
 	// TODO: divide
 }
